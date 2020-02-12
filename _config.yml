@@ -64,3 +64,5 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
+  
+  remote_theme : samanyougarg/hanuman 

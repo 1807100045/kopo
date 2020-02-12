@@ -20,7 +20,7 @@ locale                   : "ko-KR"
 title                    : "정보통신시스템과 입학안내 페이지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "kopo"
+name                     : kopo
 description              : "입학안내"
 url                      : "https://1807100045.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/kopo" # the subpath of your site, e.g. "/blog"
